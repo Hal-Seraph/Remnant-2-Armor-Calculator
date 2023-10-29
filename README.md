@@ -22,6 +22,7 @@ This calculator determines the best armor pieces (head, body, legs, gloves) to u
 ## Changelog
 
 * [[08-18-2023](https://github.com/threeskimo/Remnant-2-Armor-Calculator/commit/222a1cacdb8b93fbff207b248c148c32629f109c)] Added ability to lock-in armors, for you fashion conscious travelers out there. 😉
+* [[10-29-2023]I have edited for new stats. Lab Gloves show expected new stats after change coming soon as stated by Tragic here: https://www.reddit.com/r/remnantgame/comments/17iiwnz/comment/k6unz8h/?utm_source=share&utm_medium=web2x&context=3
 
 ## Images
 ![Preview image](https://github.com/threeskimo/remnant-2-armor-weight-calculator/blob/main/preview.png?raw=true)
